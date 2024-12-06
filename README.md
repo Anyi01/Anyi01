@@ -13,6 +13,7 @@ I am a PhD student at Auburn University, USA
 
 
 Welcome to visit our Lab page: [AIMS Lab](https://auaims.net)
+Welcome to visit my personal page: [Anyi Page]([https://auaims.net](https://sites.google.com/view/anyi01))
 ### About me:
 - [ResearchGate](https://www.researchgate.net/profile/Anyi_Li2)
 - [Google Scholar](https://scholar.google.com/citations?user=MZMFRPUAAAAJ&hl=en&oi=ao)
