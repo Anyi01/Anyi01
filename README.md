@@ -6,10 +6,10 @@
 I am a PhD student at Auburn University, USA
 
 **My research interests**: 
-- Additive Manufacturing (known as 3D printing): Defect criticality analysis, multi-axial fatigue life prediction, mechanical fracture, distributed additive manufacturing
-- Statistical Modeling and Optimization: Leverage mathematical models, statistical assumptions, and optimization to formulate and make decisions on real-world problems
-- Federated Learning and Distributed System: Heterogeneity issues (i.e., non-iid data) in federated learning establish the physically simulated distributed system
-- Representation Learning: Multi-scale hierarchical graph representation learning and multimodal transfer learning
+- **Additive Manufacturing (known as 3D printing)**: Defect criticality analysis, multi-axial fatigue life prediction, mechanical fracture, distributed additive manufacturing
+- **Statistical Modeling and Optimization**: Leverage mathematical models, statistical assumptions, and optimization to formulate and make decisions on real-world problems
+- **Federated Learning and Distributed System**: Heterogeneity issues (i.e., non-iid data) in federated learning establish the physically simulated distributed system
+- **Representation Learning**: Multi-scale hierarchical graph representation learning and multimodal transfer learning
 
 
 Welcome to visit our Lab page: [AIMS Lab](https://auaims.net)
