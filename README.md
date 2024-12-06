@@ -3,7 +3,7 @@
 
 # Hi, I'm Anyi 👋.
 
-I am a PhD student at Auburn University, USA
+I am a PhD student at Auburn University, AL, USA.
 
 **My research interests**: 
 - **Additive Manufacturing (known as 3D printing)**: Defect criticality analysis, multi-axial fatigue life prediction, mechanical fracture, distributed additive manufacturing
